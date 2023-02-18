@@ -32,6 +32,12 @@ st.markdown(
     - Offer all relevant details such as loan amount, loan history, income, etc.
     - Click on the submit option once you have filled in all the details.
     - Our algorithm will assess your eligibility based on the details provided by you and you will be awarded with a `yes` or a `no`.
+
+    ### 3. Mass data analyser
+    Here you can upload your excel file and get the results for all the users in the excel file.
+    - Upload your excel file here
+    - Click on the :blue[Get Results] button below to get the results
+    - Our algorithm will assess the eligibility of all the users in the excel file and you will be awarded with a `yes` or a `no` for each user.    
 """
 )
 

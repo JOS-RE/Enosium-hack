@@ -8,9 +8,6 @@ st.set_page_config(
     page_icon=image2,
 )
 
-
-
-
 #1 Guarantor or Debtor
 veri_status_mapping1={"none":0,"co-applicant":1,"gaurantor":2}
 
@@ -225,8 +222,6 @@ map9_loan_history = veri_status_mapping9[map9_loan_history]
 map10_other_loans_plans_taken = veri_status_mapping10[map10_other_loans_plans_taken]
 
 years_of_employment = veri_status_mapping6[map2_years_of_employment]
-
-
 
 # Now add a submit button to the form:
 if st.button('Check my chances'):

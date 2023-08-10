@@ -16,7 +16,7 @@ st.markdown(
 
     ## A step-by-step guide 
 
-    The process is quite straightforward. BOB offers loans to eligible applicants with strong financial profiles. 
+    The process is quite straightforward. Runaha offers loans to eligible applicants with strong financial profiles. 
     Individuals need to provide their basic personal, employment, income and property details to know if you are fit to apply for a loan.
 
     ### 1 . Login 
